@@ -8,7 +8,7 @@ This is a theme for [Omarchy](https://omarchy.org) based on [solarized osaka](ht
 To install this theme either use the Omarchy TUI selecting `Themes > Install` and copying the URL of this repo or running;
 
 ```bash
-omarchy-theme-install https://github.com/motorsss/omarchy-solarizedOsaka-theme
+omarchy-theme-install https://github.com/motorsss/omarchy-solarizedosaka-theme
 ```
 
 in your terminal.
