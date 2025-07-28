@@ -1,0 +1,49 @@
+@define-color bg #001c2b; # Solarized Osaka base03
+@define-color fg #6c7c81; # Solarized Osaka base00
+@define-color gray1 #072a39; # Solarized Osaka base02
+@define-color gray2 #5f6f74; # Solarized Osaka base01
+@define-color gray3 #7a8c91; # Solarized Osaka base1 (slightly lighter than base00 for border distinction)
+@define-color gray4 #e9e2d0; # Solarized Osaka base2
+@define-color gray5 #fcf6e3; # Solarized Osaka base3
+@define-color fg_bright #e9e2d0; # Solarized Osaka base2
+
+window {
+    background-color: @bg;
+    border: 2px solid @gray3;
+}
+
+input {
+    background-color: @bg;
+    color: @fg;
+    border: 1px solid @gray2;
+}
+
+input:selected {
+    background-color: @gray1;
+    color: @fg_bright;
+}
+
+#entry {
+    color: @fg;
+    background-color: @bg;
+    padding: 5px;
+    margin: 2px;
+}
+
+#entry:selected {
+    background-color: @gray1;
+    color: @fg_bright;
+}
+
+scrollbar {
+    background-color: @bg;
+}
+
+scrollbar slider {
+    background-color: @gray2;
+    border-radius: 5px;
+}
+
+scrollbar slider:hover {
+    background-color: @gray3;
+}

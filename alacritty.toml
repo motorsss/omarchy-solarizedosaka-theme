@@ -1,0 +1,24 @@
+[colors]
+[colors.primary]
+background = "0x001c2b" # Solarized Osaka base03
+foreground = "0x6c7c81" # Solarized Osaka base00
+
+[colors.normal]
+black = "0x072a39"   # Solarized Osaka base02
+red = "0xd8322f"     # Solarized Osaka red
+green = "0x809900"   # Solarized Osaka green
+yellow = "0xb38800"  # Solarized Osaka yellow
+blue = "0x268bd2"    # Solarized Osaka blue
+magenta = "0xd03682" # Solarized Osaka magenta
+cyan = "0x2aa198"    # Solarized Osaka cyan
+white = "0xe9e2d0"   # Solarized Osaka base2
+
+[colors.bright]
+black = "0x5f6f74"   # Solarized Osaka base01
+red = "0xd8322f"     # Solarized Osaka red (same as normal for consistency)
+green = "0x809900"   # Solarized Osaka green (same as normal for consistency)
+yellow = "0xb38800"  # Solarized Osaka yellow (same as normal for consistency)
+blue = "0x268bd2"    # Solarized Osaka blue (same as normal for consistency)
+magenta = "0xd03682" # Solarized Osaka magenta (same as normal for consistency)
+cyan = "0x2aa198"    # Solarized Osaka cyan (same as normal for consistency)
+white = "0xfcf6e3"   # Solarized Osaka base3
