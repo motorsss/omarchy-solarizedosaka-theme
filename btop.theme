@@ -41,41 +41,41 @@ theme[proc_box]="#6c7c81"
 theme[div_line]="#5f6f74"
 
 # Temperature graph colors
-theme[temp_start]="#809900" # Solarized Osaka green
-theme[temp_mid]="#b38800"  # Solarized Osaka yellow
-theme[temp_end]="#d8322f"  # Solarized Osaka red
+theme[temp_start]="#809900"
+theme[temp_mid]="#b38800"
+theme[temp_end]="#d8322f"
 
 # CPU graph colors
-theme[cpu_start]="#268bd2" # Solarized Osaka blue
-theme[cpu_mid]="#6c71c4"  # Solarized Osaka violet
-theme[cpu_end]="#d03682"  # Solarized Osaka magenta
+theme[cpu_start]="#268bd2"
+theme[cpu_mid]="#6c71c4"
+theme[cpu_end]="#d03682"
 
 # Mem/Disk free meter
-theme[free_start]="#809900" # Solarized Osaka green
-theme[free_mid]="#2aa198"  # Solarized Osaka cyan
-theme[free_end]="#268bd2"  # Solarized Osaka blue
+theme[free_start]="#809900"
+theme[free_mid]="#2aa198"
+theme[free_end]="#268bd2"
 
 # Mem/Disk cached meter
-theme[cached_start]="#b38800" # Solarized Osaka yellow
-theme[cached_mid]="#c84b16"  # Solarized Osaka orange
-theme[cached_end]="#d8322f"  # Solarized Osaka red
+theme[cached_start]="#b38800"
+theme[cached_mid]="#c84b16"
+theme[cached_end]="#d8322f"
 
 # Mem/Disk available meter
-theme[available_start]="#2aa198" # Solarized Osaka cyan
-theme[available_mid]="#268bd2"  # Solarized Osaka blue
-theme[available_end]="#6c71c4"  # Solarized Osaka violet
+theme[available_start]="#2aa198"
+theme[available_mid]="#268bd2"
+theme[available_end]="#6c71c4"
 
 # Mem/Disk used meter
-theme[used_start]="#d8322f"  # Solarized Osaka red
-theme[used_mid]="#d03682"  # Solarized Osaka magenta
-theme[used_end]="#c84b16"  # Solarized Osaka orange
+theme[used_start]="#d8322f"
+theme[used_mid]="#d03682"
+theme[used_end]="#c84b16"
 
 # Download graph colors
-theme[download_start]="#268bd2" # Solarized Osaka blue
-theme[download_mid]="#2aa198"  # Solarized Osaka cyan
-theme[download_end]="#809900"  # Solarized Osaka green
+theme[download_start]="#268bd2"
+theme[download_mid]="#2aa198"
+theme[download_end]="#809900"
 
 # Upload graph colors
-theme[upload_start]="#d03682"  # Solarized Osaka magenta
-theme[upload_mid]="#d8322f"  # Solarized Osaka red
-theme[upload_end]="#c84b16"  # Solarized Osaka orange
+theme[upload_start]="#d03682"
+theme[upload_mid]="#d8322f"
+theme[upload_end]="#c84b16"
